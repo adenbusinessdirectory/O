@@ -1,0 +1,6 @@
+{
+  "name": "متجر أطياف",
+  "description": "واجهة متجر إلكتروني لبيع العطور والروائح",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
